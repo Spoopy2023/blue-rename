@@ -1,4 +1,4 @@
-# Blue-Announcements 
+# Blue-Rename 
 # THIS ADDON REQUIRES BLUEPRINT TO FUNCTION.
 
 ![Blue-Rename Cover](https://macgould.xyz/storage/01JAX8YNPS0VCZ0GKCCR95WBN1.jpg)
